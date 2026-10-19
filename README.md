@@ -1,8 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juan%20David%20Serna&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Applied%20Mathematics%20%C2%B7%20Computer%20Science%20%C2%B7%20Quant%20%26%20FinTech&descSize=16&descAlignY=58" alt="header" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+math+into+working+software;ML+pipelines+%C2%B7+Algorithmic+trading+%C2%B7+FinTech;Applied+Mathematics+%26+CS+%40+Universidad+del+Rosario)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/Bogot%C3%A1-Colombia-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white)
