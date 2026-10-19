@@ -179,8 +179,8 @@ Especially roles where I can combine **mathematical reasoning, programming, and 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-NoT--Serna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoT-Serna)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notserna)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jserna7856@gmail.com)
 
 *Feel free to explore my repositories, open an issue, or reach out.*
 
