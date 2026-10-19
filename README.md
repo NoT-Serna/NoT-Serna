@@ -44,7 +44,7 @@ class JuanSerna:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,cpp,java,r,js&perline=10" alt="languages" />
+<img src="https://skillicons.dev/icons?i=py,cpp,r,js&perline=10" alt="languages" />
 
 **Data & Machine Learning**
 
