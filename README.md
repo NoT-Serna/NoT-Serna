@@ -51,17 +51,7 @@ A machine learning project exploring how content performance data can identify S
 
 **Focus:** Python · Machine Learning · DuckDB · Feature Engineering · Temporal Validation
 
-### 📦 Freight Rate Prediction
-
-A machine learning pipeline for predicting freight rates from shipment and market data.
-
-- Feature engineering and data cleaning
-- Data validation and categorical variable handling
-- Model evaluation using MAE and MAPE
-- Time-based validation
-
-**Focus:** Python · Pandas · Scikit-learn · Predictive Modeling
-
+📄 **[Read the Research Paper](https://not-serna.github.io/Juan_Serna_FlyRank/paper/)** | 💻 **[View Source Code](https://github.com/NoT-Serna/Juan_Serna_FlyRank)**
 ### 📈 [Watcher_Algo — Algorithmic Trading System](https://github.com/NoT-Serna/Watcher_Algo)
 
 An automated trading platform combining market data, technical indicators, and systematic trading logic.
